@@ -1,0 +1,44 @@
+.navbar-brand img {
+  margin-right: 5px;
+}
+
+.navbar-nav .nav-link {
+  padding: 0.5rem 1rem;
+}
+
+.jumbotron {
+  position: relative;
+  background: url(../img/daarulmukhtar.jpg);
+  background-size: cover;
+  height: 700px;
+}
+
+.jumbotron .overlay {
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  background-color: rgba(0, 0, 0, 0.6);
+  z-index: 1;
+}
+
+.jumbotron .inner {
+  position: relative;
+  z-index: 2;
+}
+.jumbotron .inner .container {
+  padding-top: 230px;
+}
+
+.pendiri {
+  background-color: #146C94;
+}
+
+.bg-utama {
+  background-color: #146C94;
+}
+
+.text-utama {
+  color: #146C94;
+}/*# sourceMappingURL=style.css.map */
